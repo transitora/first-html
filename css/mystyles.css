@@ -1,0 +1,8 @@
+button.tony-button{
+  background-color:hotpink;
+}
+
+button.tony-button:hover{
+  background-color:green;
+  color:hotpink;
+}
