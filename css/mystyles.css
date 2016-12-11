@@ -6,3 +6,23 @@ button.tony-button:hover{
   background-color:green;
   color:hotpink;
 }
+.redcol{
+  border:1px dotted hotpink;
+}
+.navbar-defaultnavbar-fixed-top{
+  width:100%;
+  border:1px solid black;
+  display: block;
+  min-height:56px;
+  background-color: gray;
+
+}
+
+.sub-box{
+  width:1px;
+  display: inline-block;
+border-left-style: solid;
+border-left-width: 1px;
+border-left-color: black;
+
+}
