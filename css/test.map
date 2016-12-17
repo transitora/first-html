@@ -5,8 +5,8 @@
 		"../sass/test.scss"
 	],
 	"sourcesContent": [
-		"$blue: lightblue;\n\n\n.thing{\n  color:$blue;\n\n  &:hover{\n    color:hotpink;\n  }\n}\n"
+		"$blue: lightblue;\n\n\n.thing{\n  color:$blue;\n\n  .otherthing{\n    text-decoration: overline;\n  }\n  &:hover{\n    color:hotpink;\n  }\n}\n"
 	],
-	"mappings": ";AAGA,AAAA,MAAM,CAAA;EACJ,KAAK,EAJA,SAAS;CASf;;;AAND,AAAA,MAAM,AAGH,MAAM,CAAA;EACL,KAAK,EAAC,OAAQ;CACf",
+	"mappings": ";AAGA,AAAA,MAAM,CAAA;EACJ,KAAK,EAJA,SAAS;CAYf;;;AATD,AAGE,MAHI,CAGJ,WAAW,CAAA;EACT,eAAe,EAAE,QAAS;CAC3B;;;AALH,AAAA,MAAM,AAMH,MAAM,CAAA;EACL,KAAK,EAAC,OAAQ;CACf",
 	"names": []
 }

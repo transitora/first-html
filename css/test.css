@@ -4,6 +4,11 @@
 }
 
 /* line 7, /Users/laurasheedy/Desktop/first-html/sass/test.scss */
+.thing .otherthing {
+  text-decoration: overline;
+}
+
+/* line 10, /Users/laurasheedy/Desktop/first-html/sass/test.scss */
 .thing:hover {
   color: hotpink;
 }

@@ -4,6 +4,9 @@ $blue: lightblue;
 .thing{
   color:$blue;
 
+  .otherthing{
+    text-decoration: overline;
+  }
   &:hover{
     color:hotpink;
   }
