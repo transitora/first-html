@@ -1,0 +1,11 @@
+/* line 4, /Users/laurasheedy/Desktop/first-html/sass/test.scss */
+.thing {
+  color: lightblue;
+}
+
+/* line 7, /Users/laurasheedy/Desktop/first-html/sass/test.scss */
+.thing:hover {
+  color: hotpink;
+}
+
+/*# sourceMappingURL=../css/test.map */

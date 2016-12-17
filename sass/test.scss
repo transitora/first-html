@@ -1,0 +1,10 @@
+$blue: lightblue;
+
+
+.thing{
+  color:$blue;
+
+  &:hover{
+    color:hotpink;
+  }
+}
