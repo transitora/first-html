@@ -1,0 +1,43 @@
+button.tony-button{
+  background-color:hotpink;
+}
+
+button.tony-button:hover{
+  background-color:green;
+  color:hotpink;
+}
+.redcol{
+  border:1px dotted hotpink;
+}
+.navbar-defaultnavbar-fixed-top{
+  width:1px;
+  height: 50px;
+  border-left-style: solid;
+  display: inline-block;
+  border-left-width: 1px;
+  border-left-height: 50px;
+  border-left-color: black;
+  display: block;
+  min-height:56px;
+  background-color: white;
+
+}
+
+.sub-box{
+  width:1px;
+  height: 50px;
+  display: inline-block;
+border-left-style: solid;
+border-left-width: 1px;
+border-left-color: black;
+
+}
+
+.radio-inline{
+  margin: auto;
+  width: inherit;
+  align-items: center;
+  display: inline-block;
+  width: inherit;
+
+}
